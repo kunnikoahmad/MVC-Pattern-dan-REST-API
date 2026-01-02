@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|d:\\kuliah\\pemrolanjut\\pertemuan 12\\pertemuan 12\\02 mvc - rest api (lab)\\mvc - rest api\\perpustakaanappmvc\\perpustakaanappmvc\\model\\repository\\mahasiswarestapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\model\\repository\\mahasiswarestapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|d:\\kuliah\\pemrolanjut\\pertemuan 12\\pertemuan 12\\02 mvc - rest api (lab)\\mvc - rest api\\perpustakaanappmvc\\perpustakaanappmvc\\controller\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\controller\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|d:\\kuliah\\pemrolanjut\\pertemuan 12\\pertemuan 12\\02 mvc - rest api (lab)\\mvc - rest api\\perpustakaanappmvc\\perpustakaanappmvc\\model\\repository\\mahasiswarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\model\\repository\\mahasiswarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "ToolTip": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:52:38.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaRestApiRepository.cs",
+              "DocumentMoniker": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "ToolTip": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:40:21.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MahasiswaRepository.cs",
+              "DocumentMoniker": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "ToolTip": "D:\\kuliah\\pemrolanjut\\Pertemuan 12\\Pertemuan 12\\02 MVC - REST API (Lab)\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:39:16.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
